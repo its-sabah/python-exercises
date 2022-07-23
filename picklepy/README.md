@@ -2,9 +2,9 @@
 Experimenting with the pickle function, complimentary to project work
 
 ## testing_pickle.py
-### Input: dummy.csv
-### Output: pickled_dummy.pkl
+__Input:__ dummy.csv
+__Output:__ pickled_dummy.pkl
 
 ## picklingdata.py
-### Input: no file
-### Output: datap.pkl
+__Input:__ no file
+__Output:__ datap.pkl
