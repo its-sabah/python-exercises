@@ -15,10 +15,10 @@ data = pd.read_csv(path, index_col=0)
 print(data)
 print(type(data['col2'][3]))
 
-with open('df_t.pkl', 'wb') as pickle_file:
+with open('pickled_dummy.pkl', 'wb') as pickle_file:
     pickle.dump(data, pickle_file)
     
-with open('df_t.pkl', 'rb') as pickle_file:
+with open('pickled_dummy.pkl', 'rb') as pickle_file:
     new_data = pickle.load(pickle_file)
 
 print(new_data)
