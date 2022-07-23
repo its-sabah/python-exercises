@@ -1,11 +1,7 @@
 # PYnative exercises
 
-PYnative is an online resourse for gaining fluency in Python:
-
-https://pynative.com/python-exercises-with-solutions/
-
+PYnative is an online resourse for gaining fluency in Python.
 In this folder are my solutions to the following exercises.
-
 
 **Python Basic Exercise for Beginners**:
 
