@@ -9,8 +9,9 @@ import pickle
 import numpy as np
 import pandas as pd
 
+path = "https://github.com/its-sabah/python-exercises/blob/27eee77ded1f220cf1c3c01d6a0c0eabdd4be0ef/picklepy/dummy.csv"
+data = pd.read_csv(path, index_col=0)
 
-data = pd.read_csv(r"C:\Users\AD676KL\OneDrive - EY\__Learning\_python\picklepy\dummy.csv")
 print(data)
 print(type(data['col2'][3]))
 
