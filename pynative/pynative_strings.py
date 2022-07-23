@@ -5,7 +5,7 @@ Created on Mon Mar 21 11:30:36 2022
 @author: AD676KL
 
 Completing 'Python String Exercises'
-source: https://pynative.com/python-exercises-with-solutions/
+source: https://pynative.com/python-string-exercise/
 """
 
 #   Exercise 1A: Create a string made of the first, middle and last character
