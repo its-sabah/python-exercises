@@ -5,7 +5,7 @@ Created on Sat Mar 19 15:52:40 2022
 @author: AD676KL
 
 Completing 'Python Basic Exercise for Beginners'
-source: https://pynative.com/python-exercises-with-solutions/
+source: https://pynative.com/python-basic-exercise-for-beginners/
 """
 
 
